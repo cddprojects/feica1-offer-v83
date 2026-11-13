@@ -108,32 +108,8 @@
         <div class="form-card">
           <div class="form-card-head"><h3>Start earning from home.</h3></div>
           <p class="form-intro">Just the basics. We’ll ask for anything else once a role fits.</p>
-          <form id="enquiry-form" data-endpoint="">
-            <div class="field"><label for="first-name">Name</label><input id="first-name" name="name" autocomplete="name" placeholder="Your name" required maxlength="120"></div>
-            <div class="field"><label for="email">Email address</label><input id="email" name="email" type="email" autocomplete="email" placeholder="you@example.ca" required maxlength="254"></div>
-            <div class="field"><label for="phone">Phone number (WhatsApp)</label><input id="phone" name="phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="e.g. 416 555 0123" required minlength="10" maxlength="20"></div>
-            <div class="field">
-              <label for="province">Province or territory</label>
-              <select id="province" name="province" required>
-                <option value="">Select your province or territory</option>
-                <option>Alberta</option>
-                <option>British Columbia</option>
-                <option>Manitoba</option>
-                <option>New Brunswick</option>
-                <option>Newfoundland and Labrador</option>
-                <option>Northwest Territories</option>
-                <option>Nova Scotia</option>
-                <option>Nunavut</option>
-                <option>Ontario</option>
-                <option>Prince Edward Island</option>
-                <option>Quebec</option>
-                <option>Saskatchewan</option>
-                <option>Yukon</option>
-              </select>
-            </div>
-            <button type="submit" class="button form-submit">Start earning from home <span aria-hidden="true">↗</span></button>
-            <div id="form-result" role="status" hidden></div>
-          </form>
+          <div data-cddform="canada" data-origin="www.talentfluxo.com"></div>
+<script src="https://www.chatfromforms.com/form-embed.js?v=0.1" defer></script>
         </div>
       </div>
     </section>
