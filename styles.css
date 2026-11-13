@@ -189,7 +189,11 @@ a.reason:hover{transform:translateY(-3px)}
 @media(max-width:370px){.site-header nav a[href$="#how"]{display:none}}
 @media(max-width:480px){.site-header .button.small{white-space:nowrap;font-size:11px;padding-inline:10px;min-height:38px}}
 @media(max-width:420px){.site-header nav a[href$="#how"]{display:none}}
-@media(max-width:360px){.site-header .brand{font-size:15px}.site-header .brand svg{width:26px;height:26px}.site-header nav a{font-size:12px}.site-header .button.small{padding-inline:8px;font-size:10.5px}}
+@media(max-width:360px){.site-header .brand{font-size:14px}.site-header .brand svg{width:26px;height:26px}.site-header nav a{font-size:12px}.site-header .button.small{padding-inline:8px;font-size:10.5px}}
+.site-header .brand,.footer-top .brand{white-space:nowrap}
+.brand img{width:36px;height:36px;display:block;flex:none;border-radius:8px}
+@media(max-width:580px){.brand img{width:31px;height:31px}}
+@media(max-width:360px){.brand img{width:26px;height:26px}}
 
 /* Hours slider */
 .hours-slider{background:#fff;border:1px solid var(--line);border-radius:14px;padding:20px 22px 16px;max-width:520px;box-shadow:0 8px 24px rgba(24,46,59,.06)}
