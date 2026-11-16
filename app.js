@@ -321,7 +321,7 @@ if (year) year.textContent = String(new Date().getFullYear());
     slider.style.setProperty('--ratio', String((hours - slider.min) / (slider.max - slider.min)));
     const monthText = formatCad(Math.round(weekly * 52 / 12)).replace(/^CAD\s/, '');
     document.querySelectorAll('[data-earnings-month]').forEach((el) => { el.textContent = monthText; });
-    yearEl.textContent = 'At ' + hours + (hours === 1 ? ' hour' : ' hours') + ' a week, this example is ' + formatCad(weekly * 52) + ' a year, before taxes.';
+    yearEl.textContent = hours + (hours === 1 ? ' hour' : ' hours') + ' a week could add ' + formatCad(weekly * 52) + ' a year, before taxes.';
   }
   slider.addEventListener('input', render);
   render();
