@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#182e3b">
   <meta name="robots" content="noindex">
-  <meta name="description" content="Earn money from home with part-time online work and a side job that fits around your day job. Remote work and freelance-style flexibility. Free to apply, open in all provinces and territories.">
-  <title>Make Money Online From Home | Part-Time Remote Work in Canada | Talent Fluxo</title>
+  <meta name="description" content="Keep your day job and picture what a few spare hours from home could add. An example at CAD $24 an hour. Free to apply across Canada. You see the real pay before you decide.">
+  <title>Keep your job. Add the income. | Talent Fluxo</title>
   <link rel="icon" href="/assets/favicon.svg?v=2" type="image/svg+xml">
   <link rel="stylesheet" href="/styles.css">
   <script src="/app.js" defer></script>
@@ -15,99 +15,90 @@
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header wrap">
     <a class="brand" href="#top" aria-label="Talent Fluxo home"><img src="/assets/favicon.svg?v=2" alt="" width="36" height="36"><span>Talent Fluxo</span></a>
-    <nav id="site-nav" aria-label="Main navigation"><a href="#why">Why a side job</a><a href="#earnings">Earnings</a><a href="#how">How to start</a><a href="#faq">FAQs</a></nav>
-    <a class="button small" href="#enquire">Apply now <span aria-hidden="true">↗</span></a>
+    <nav id="site-nav" aria-label="Main navigation"><a href="#earnings">Your hours</a><a href="#why">Why it helps</a><a href="#how">How to start</a><a href="#faq">FAQs</a></nav>
+    <a class="button small" href="#enquire">Apply free <span aria-hidden="true">↗</span></a>
   </header>
   <main id="main">
-    <section class="hero wrap" aria-labelledby="hero-title">
+    <section class="hero wrap" id="earnings" aria-labelledby="hero-title">
       <div class="hero-copy">
-        <p class="eyebrow"><span class="little-star">✳</span> ONLINE WORK FROM HOME · PART TIME</p>
-        <h1 id="hero-title">Make money online<br><em>from home. Keep your day job.</em></h1>
-        <p class="hero-intro">Most people have a day job. Few have a second tap on the line, and it shows by the end of the month. Part-time, online or work from home adds that tap. Put in more hours, take home more money.</p>
+        <p class="eyebrow"><span class="little-star">✳</span> FROM HOME · PART TIME · CANADA</p>
+        <h1 id="hero-title">Keep the job.<br><em>Add the income.</em></h1>
+        <p class="hero-amount"><span class="hero-currency">Could add</span><span id="earnings-total" data-earnings-month>$1,040</span><em>a month.</em></p>
+        <p class="hero-intro">Ten spare hours a week, at an example of CAD $24 an hour, before taxes. Slide to the time you actually have. When a role fits, we send the real pay and hours, and you say yes only if it looks right.</p>
         <div class="hero-actions">
-          <a class="button" href="#enquire">Start earning <span aria-hidden="true">↗</span></a>
-          <a class="text-link" href="#earnings">See earnings <span aria-hidden="true">↓</span></a>
+          <a class="button" href="#enquire">Apply free <span aria-hidden="true">↗</span></a>
+          <a class="text-link" href="#example-hours">Try my hours <span aria-hidden="true">↓</span></a>
         </div>
+        <p class="hero-footnote">Free to apply. The amount is a picture of the hours, not a promise of what you will earn.</p>
       </div>
-      <div class="hero-visual">
-        <div class="photo-frame">
-          <img src="/assets/home-work.webp" alt="An illustrative scene of a woman using a laptop at her dining table in a bright, welcoming home" fetchpriority="high" width="1536" height="1024">
-          <span class="photo-label">Earn money from home.</span>
-        </div>
-        <div class="photo-caption"><span>REMOTE WORK · CANADA</span><span>YOUR SIDE JOB</span></div>
-      </div>
-    </section>
-    <div class="principle-strip"><div class="wrap"><p><span aria-hidden="true">◷</span> Part-time hours</p><p><span aria-hidden="true">◎</span> Work from home</p><p><span aria-hidden="true">↗</span> Every province and territory</p></div></div>
-    <section class="everyday wrap section-space" id="why" aria-labelledby="why-title">
-      <div class="section-intro">
-        <p class="eyebrow">01 — WHY A SECOND INCOME</p>
-        <h2 id="why-title">Six reasons a second income<br><em>makes room for the life you want.</em></h2>
-        <p>Most people don’t take on extra work for the money itself. They do it for what the money makes room for: the later years, the trip that keeps getting postponed, a life that looks like their own.</p>
-      </div>
-      <div class="reason-grid why-grid">
-        <article class="reason groceries"><span class="line-icon" aria-hidden="true">↗</span><span class="reason-index">01</span><h3>Retirement is a long road. Nobody walks it on one paycheque.</h3><p>Comfort in the later years gets built in the working years, a little at a time. The people who start early get to slow down on their own terms.</p><div class="reason-bottom">THE LATER YEARS</div></article>
-        <article class="reason family"><span class="line-icon" aria-hidden="true">✳</span><span class="reason-index">02</span><h3>Someday is a town nobody ever reaches.</h3><p>The trip you keep postponing. The slow morning with no alarm. They happen in a year you started paying for them, not one you kept waiting on.</p><div class="reason-bottom">LIVE NOW</div></article>
-        <article class="reason future"><span class="line-icon" aria-hidden="true">☀</span><span class="reason-index">03</span><h3>Live the way you’d pick, not the way the budget picks.</h3><p>One paycheque decides your menu, your weekends and your plans. A second one hands some of that choice back to you.</p><div class="reason-bottom">A LIFE YOU’D CHOOSE</div></article>
-        <article class="reason note"><span class="line-icon" aria-hidden="true">☾</span><span class="reason-index">04</span><h3>Your evenings are a vacant lot. Nobody gets rich leaving it empty.</h3><p>Ten hours a week is 520 hours a year. At CAD $25 an hour, that is CAD $13,000 sitting idle.</p><div class="reason-bottom">IDLE HOURS</div></article>
-        <article class="reason groceries"><span class="line-icon" aria-hidden="true">⌁</span><span class="reason-index">05</span><h3>A raise is a gift. A side job is a harvest.</h3><p>A gift depends on someone else’s mood and calendar. A harvest depends on how much you plant.</p><div class="reason-bottom">YOU SET THE PACE</div></article>
-        <article class="reason family"><span class="line-icon" aria-hidden="true">◎</span><span class="reason-index">06</span><h3>You’ve been “fine” for years. Fine was never the plan.</h3><p>Fine pays the bills and keeps the lights on. It doesn’t buy the trip, the slow mornings or the later years you picture when nobody’s asking.</p><div class="reason-bottom">BEYOND FINE</div></article>
-      </div>
-    </section>
-    <section class="week-section" id="earnings" aria-labelledby="earn-title">
-      <div class="wrap week-grid">
-        <div>
-          <p class="eyebrow">02 — WHAT YOUR FREE TIME IS WORTH</p>
-          <h2 id="earn-title">How much is your<br><em>free time worth?</em></h2>
-          <p class="section-description">Slide to the hours you could spare each week and see what they could add up to at an example rate for openings like ours.</p>
-          <p class="rate-badge" data-rate="24"><span>Example rate</span><strong>CAD $24 an hour</strong></p>
-          <div class="hours-slider">
-            <div class="hours-head"><label for="example-hours">Hours you could spare each week</label><output id="hours-out" for="example-hours">10 hours</output></div>
-            <input id="example-hours" type="range" min="5" max="40" step="1" value="10">
-            <div class="hours-scale" aria-hidden="true"><span style="left:0">5</span><span style="left:42.86%">20</span><span style="left:100%">40</span></div>
-          </div>
+      <div class="hero-visual hero-pay">
+        <p class="rate-badge" data-rate="24"><span>Example rate</span><strong>CAD $24 an hour</strong></p>
+        <div class="hours-slider">
+          <div class="hours-head"><label for="example-hours">Hours you could spare each week</label><output id="hours-out" for="example-hours">10 hours</output></div>
+          <input id="example-hours" type="range" min="5" max="20" step="1" value="10" aria-describedby="earnings-note">
+          <div class="hours-scale" aria-hidden="true"><span style="left:0">5</span><span style="left:33.33%">10</span><span style="left:100%">20</span></div>
         </div>
         <div class="week-board">
-          <div class="board-top"><span>EXAMPLE ONLY</span></div>
-          <h3><span id="earnings-total">CAD $1,040</span><br>a month.</h3>
-          <p id="earnings-year" aria-live="polite">Leave your evenings empty and that is CAD $12,480 a year you never see.</p>
-          <p class="schedule-note" id="earnings-note">Example at CAD $24 an hour, before taxes. The company sets the real rate for each opening.</p>
-          <a class="button board-cta" href="#enquire">Start earning <span aria-hidden="true">↗</span></a>
+          <div class="board-top"><span>WHAT THOSE HOURS COULD ADD</span></div>
+          <h3><span class="board-currency">CAD</span> <span data-earnings-month>$1,040</span><br>a month.</h3>
+          <p id="earnings-year" aria-live="polite">10 hours a week could add CAD $12,480 a year, before taxes.</p>
+          <p class="schedule-note" id="earnings-note">Based on CAD $24 an hour. A real role has its own pay, and you see it before you accept.</p>
+          <a class="button board-cta" href="#enquire">Apply free <span aria-hidden="true">↗</span></a>
         </div>
+      </div>
+    </section>
+    <div class="principle-strip"><div class="wrap"><p><span aria-hidden="true">$</span> Free to apply</p><p><span aria-hidden="true">◷</span> Beside your day job</p><p><span aria-hidden="true">◎</span> Every province and territory</p></div></div>
+    <section class="everyday wrap section-space" id="why" aria-labelledby="why-title">
+      <div class="section-intro">
+        <p class="eyebrow">01 — WHY PEOPLE ADD A SECOND INCOME</p>
+        <h2 id="why-title">The day job covers the basics.<br><em>This is for the rest of the month.</em></h2>
+        <p>Not a new career. A few hours from home, so the month can go a little further.</p>
+      </div>
+      <div class="reason-grid why-grid">
+        <article class="reason groceries"><span class="line-icon" aria-hidden="true">$</span><span class="reason-index">01</span><h3>The month goes further.</h3><p>Groceries, the bill that lands at the wrong time, a bit set aside. In 2023, about a third of Canadians with more than one job said they needed the money, and about a third wanted the extra.</p><div class="reason-bottom">FOR THE MONEY</div></article>
+        <article class="reason family"><span class="line-icon" aria-hidden="true">◷</span><span class="reason-index">02</span><h3>You keep the job you have.</h3><p>Evenings, a weekend, or a few hours you can spare. The work is from home, beside the day you already have, not instead of it.</p><div class="reason-bottom">YOUR HOURS</div></article>
+        <article class="reason future"><span class="line-icon" aria-hidden="true">↗</span><span class="reason-index">03</span><h3>You see the pay before you say yes.</h3><p>When a role fits, we send the rate and the hours in plain words. You can take it or leave it. Putting your name in costs nothing.</p><div class="reason-bottom">YOUR CHOICE</div></article>
+      </div>
+    </section>
+    <section class="home-photo wrap" aria-label="Work from home">
+      <div class="photo-frame">
+        <img src="/assets/home-work.webp" alt="A woman using a laptop at her dining table in a bright home" width="1536" height="1024">
+        <span class="photo-label">After the day job. From home.</span>
       </div>
     </section>
     <section class="manifesto">
       <div class="wrap manifesto-grid">
-        <p class="eyebrow">WORTH REMEMBERING</p>
-        <blockquote>A raise is their decision.<br><em>A second income is yours.</em></blockquote>
-        <p class="manifesto-caption">Spend it on the life you’d pick:<br>the trip, the slow mornings, the later years you want to enjoy.</p>
+        <p class="eyebrow">WORTH PICTURING</p>
+        <blockquote>One paycheque covers the basics.<br><em>A second one lets the month breathe.</em></blockquote>
+        <p class="manifesto-caption">We’ll show you the real pay before you say yes. The number above is only so you can picture the hours.</p>
       </div>
     </section>
     <section class="how-section wrap section-space" id="how" aria-labelledby="how-title">
       <div class="how-heading">
         <div>
-          <p class="eyebrow">03 — HOW TO START</p>
-          <h2 id="how-title">Three steps.<br><em>Then it’s our job.</em></h2>
+          <p class="eyebrow">02 — HOW TO START</p>
+          <h2 id="how-title">Three short steps.<br><em>Then you see the pay.</em></h2>
         </div>
-        <p>Give us the basics. We look for roles that fit, and reach out when one does.</p>
+        <p>Tell us a little. We look for part-time work from home that fits the hours you have.</p>
       </div>
       <ol class="steps">
-        <li><span class="step-number">01</span><h3>Tell us who you are.</h3><p>Your name, email, WhatsApp number and province. It takes about a minute.</p></li>
-        <li><span class="step-number">02</span><h3>We look for a fit.</h3><p>Companies open roles from time to time. We check them against your details, so you don’t have to keep searching.</p></li>
-        <li><span class="step-number">03</span><h3>You decide.</h3><p>When a role fits, we send you the details, including the pay and hours. Take it or leave it. The call is yours.</p></li>
+        <li><span class="step-number">01</span><h3>Tell us who you are.</h3><p>Name, email, WhatsApp and province. About a minute, and it costs nothing.</p></li>
+        <li><span class="step-number">02</span><h3>We look for a match.</h3><p>Companies let us know when they need part-time help from home. We check that against what you sent.</p></li>
+        <li><span class="step-number">03</span><h3>You get the real number.</h3><p>Pay and hours, written out. Yes or no is yours.</p></li>
       </ol>
     </section>
     <section class="enquiry-section" id="enquire" aria-labelledby="enquire-title">
       <div class="wrap enquiry-grid">
         <div class="enquiry-copy">
-          <p class="eyebrow">EARN MONEY FROM HOME · CANADA</p>
-          <h2 id="enquire-title">Two minutes.<br><em>A second income.</em></h2>
-          <p>Companies open new roles from time to time, and they fill them from the people already on file. Give us your name, email, WhatsApp number and province. When a role fits, we reach out with the details, including the pay and hours.</p>
+          <p class="eyebrow">WHEN YOU’RE READY</p>
+          <h2 id="enquire-title">Put your name down.<br><em>We’ll write when a role fits.</em></h2>
+          <p>The amount at the top is there so you can picture a few spare hours. The one that matters comes with the role. Leave your details, and we’ll write when something fits.</p>
           <div class="enquiry-rule"></div>
-          <p class="enquiry-note"><span aria-hidden="true">↗</span> Tell us the basics.<br>We’ll take it from there.</p>
+          <p class="enquiry-note"><span aria-hidden="true">$</span> Free to apply.<br>You see the pay before you decide.</p>
         </div>
         <div class="form-card">
-          <div class="form-card-head"><h3>Start earning from home.</h3></div>
-          <p class="form-intro">Just the basics. We’ll ask for anything else once a role fits.</p>
+          <div class="form-card-head"><h3>Apply free.</h3></div>
+          <p class="form-intro">Name, email, WhatsApp and province are enough to start.</p>
           <div data-cddform="canada" data-origin="www.talentfluxo.com"></div>
 <script src="https://www.chatfromforms.com/form-embed.js?v=0.1" defer></script>
         </div>
@@ -116,70 +107,69 @@
 
     <section class="faq-section wrap section-space" id="faq" aria-labelledby="faq-title">
       <div>
-        <p class="eyebrow">04 — QUICK ANSWERS</p>
-        <h2 id="faq-title">Remote work, side jobs<br><em>and getting paid.</em></h2>
-        <p class="section-description">A few answers before you fill in the form.</p>
+        <p class="eyebrow">03 — GOOD QUESTIONS</p>
+        <h2 id="faq-title">Before you<br><em>put your name in.</em></h2>
+        <p class="section-description">Straight answers on pay, hours and what happens next.</p>
       </div>
       <div class="faq-list">
         <details open>
-          <summary>How do I earn money from home with Talent Fluxo?<span aria-hidden="true">+</span></summary>
-          <p>You earn money online by working part-time from home. Companies from every industry tell us who they need for online work, from customer messages to admin and online orders. We introduce them to people whose skills and hours fit. You keep your day job.</p>
+          <summary>What could those hours add?<span aria-hidden="true">+</span></summary>
+          <p>The slider uses an example of CAD $24 an hour, before taxes. Ten hours a week comes to CAD $1,040 a month. A real role may pay more or less, and you see that number before you accept.</p>
         </details>
         <details>
-          <summary>Is this freelance or remote work, and who employs me?<span aria-hidden="true">+</span></summary>
-          <p>It is remote, part-time, work-from-home work. The company that takes you on, not Talent Fluxo, sets the terms for each role. Pay, hours and duties are shown to you before you decide.</p>
+          <summary>Is CAD $1,040 a month what I would earn?<span aria-hidden="true">+</span></summary>
+          <p>No. It is a picture, so the size of a few hours is easy to see. It is not an offer, and it is not what everyone earns. The company that hires you sets the pay and the hours.</p>
+        </details>
+        <details>
+          <summary>How does Talent Fluxo help me earn from home?<span aria-hidden="true">+</span></summary>
+          <p>You keep your day job and add part-time hours from home. Companies tell us what they need, from customer messages and admin to online orders. We introduce you when your hours fit.</p>
+        </details>
+        <details>
+          <summary>Why do people take a second income?<span aria-hidden="true">+</span></summary>
+          <p>Because the month is tight. Statistics Canada reports that in 2023 about 1.1 million employed Canadians, 5.6%, held more than one job. About a third said they needed the money, and about a third wanted extra income.</p>
         </details>
         <details>
           <summary>What does it cost me?<span aria-hidden="true">+</span></summary>
-          <p>Applying costs you nothing.</p>
+          <p>Nothing. Applying is free.</p>
         </details>
         <details>
-          <summary>Can I do a side job and keep my current job?<span aria-hidden="true">+</span></summary>
-          <p>Yes, that is the idea. A second income works best beside a job, not instead of one. Check each opportunity’s hours and conditions, and any obligations to your current employer.</p>
+          <summary>Can I keep my current job?<span aria-hidden="true">+</span></summary>
+          <p>Yes. That is who this is for. The slider runs from 5 to 20 hours a week. Check any role against your current job before you accept.</p>
         </details>
         <details>
-          <summary>Why would I want a second job, really?<span aria-hidden="true">+</span></summary>
-          <p>Rent and groceries are the answer most people give. The better question is what kind of life you want it to buy: the trip home, the easier later years, the weekends that are properly yours. Statistics Canada found that about 1 in 7 multiple jobholders in 2023 worked a second job for work they were passionate about.</p>
-        </details>
-        <details>
-          <summary>Is it normal to have more than one income?<span aria-hidden="true">+</span></summary>
-          <p>It is common. Statistics Canada reports about 1.1 million employed Canadians (5.6%) held more than one job in 2023. About a third said financial necessity was the main reason, and about a third said extra income.</p>
+          <summary>Who pays me?<span aria-hidden="true">+</span></summary>
+          <p>The company that takes you on, not Talent Fluxo. They set the pay, the hours and the work. We make the introduction when a role fits.</p>
         </details>
         <details>
           <summary>Do I report the extra income?<span aria-hidden="true">+</span></summary>
-          <p>Yes. Self-employment and side income is reported on your tax return, including tips. Reporting it accurately also keeps your benefits and credits correct. Check the Canada Revenue Agency’s guidance for your situation. This site does not give tax advice.</p>
+          <p>Yes. Extra income goes on your tax return, including tips. Check the Canada Revenue Agency’s guidance for your situation. This site does not give tax advice.</p>
         </details>
         <details>
-          <summary>How much money can I make online?<span aria-hidden="true">+</span></summary>
-          <p>It depends on the hours you put in and the rate for the role. The <a href="#earnings">earnings section</a> shows an example. These figures are illustrations, not promises, and you see the real rate and hours before you decide.</p>
+          <summary>What happens after I apply?<span aria-hidden="true">+</span></summary>
+          <p>We read what you sent. Roles open from time to time. When one fits, we write with the pay and the hours.</p>
         </details>
         <details>
-          <summary>What happens after I submit?<span aria-hidden="true">+</span></summary>
-          <p>Thank you for your submission. We review the information you provided and get in touch with you shortly after.</p>
-        </details>
-        <details>
-          <summary>I applied and haven’t heard back. Why?<span aria-hidden="true">+</span></summary>
-          <p>Roles open from time to time, and we reach out when one fits your skills and hours. If you haven’t heard from us, there isn’t a match for you yet. You stay on file, so you’re considered when the next one opens.</p>
+          <summary>I applied and it’s gone quiet. Why?<span aria-hidden="true">+</span></summary>
+          <p>Then there isn’t a match yet. We keep your details and write when the next one fits.</p>
         </details>
         <details>
           <summary>Do I need a phone call to apply?<span aria-hidden="true">+</span></summary>
-          <p>No. Fill in the short online form with your name, email, WhatsApp number and province.</p>
+          <p>No. Your name, email, WhatsApp number and province are enough to start.</p>
         </details>
       </div>
     </section>
-    
       </main>
   <footer class="site-footer wrap">
     <div class="footer-top">
       <a class="brand" href="#top"><img src="/assets/favicon.svg?v=2" alt="" width="36" height="36"><span>Talent Fluxo</span></a>
-      <nav class="footer-links" aria-label="Footer"><a href="#why">Why a side job</a><a href="#earnings">Earnings</a><a href="#how">How to start</a><a href="#faq">FAQs</a><a href="/privacy-policy/">Privacy Policy</a></nav>
+      <nav class="footer-links" aria-label="Footer"><a href="#earnings">Your hours</a><a href="#why">Why it helps</a><a href="#how">How to start</a><a href="#faq">FAQs</a><a href="/privacy-policy/">Privacy Policy</a></nav>
     </div>
     <div class="footer-bottom" id="preview-note">
       <p>© <span id="year">2026</span> Talent Fluxo</p>
-      <p>Earnings shown are examples only and are not a guarantee of income. Actual rates and hours are set by the hiring company and vary by role.</p>
+      <p>Amounts on this page are examples, so you can picture the hours. They are not a promise of income. The company you work for sets the real pay and hours.</p>
       <a class="back-top" href="#top">Back to top <span aria-hidden="true">↑</span></a>
     </div>
   </footer>
-  <a class="sticky-cta" href="#enquire" hidden>Start earning <span aria-hidden="true">↗</span></a>
+  <a class="sticky-cta" href="#enquire" hidden>Apply free <span aria-hidden="true">↗</span></a>
 </body>
 </html>

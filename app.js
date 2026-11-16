@@ -310,18 +310,18 @@ if (year) year.textContent = String(new Date().getFullYear());
 (function earningsSlider() {
   const slider = document.getElementById('example-hours');
   const badge = document.querySelector('.rate-badge');
-  const total = document.getElementById('earnings-total');
-  if (!slider || !badge || !total) return;
+  if (!slider || !badge || !document.querySelector('[data-earnings-month]')) return;
   const out = document.getElementById('hours-out');
   const yearEl = document.getElementById('earnings-year');
   const rate = Number(badge.dataset.rate);
   function render() {
     const hours = Number(slider.value);
     const weekly = rate * hours;
-    out.textContent = hours + ' hours';
+    out.textContent = hours + (hours === 1 ? ' hour' : ' hours');
     slider.style.setProperty('--ratio', String((hours - slider.min) / (slider.max - slider.min)));
-    total.textContent = formatCad(Math.round(weekly * 52 / 12));
-    yearEl.textContent = 'Leave your evenings empty and that is ' + formatCad(weekly * 52) + ' a year you never see.';
+    const monthText = formatCad(Math.round(weekly * 52 / 12)).replace(/^CAD\s/, '');
+    document.querySelectorAll('[data-earnings-month]').forEach((el) => { el.textContent = monthText; });
+    yearEl.textContent = hours + (hours === 1 ? ' hour' : ' hours') + ' a week could add ' + formatCad(weekly * 52) + ' a year, before taxes.';
   }
   slider.addEventListener('input', render);
   render();
