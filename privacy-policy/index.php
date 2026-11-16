@@ -15,7 +15,7 @@
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header wrap">
     <a class="brand" href="/" aria-label="Talent Fluxo home"><img src="/assets/favicon.svg?v=2" alt="" width="36" height="36"><span>Talent Fluxo</span></a>
-    <nav id="site-nav" aria-label="Main navigation"><a href="/#why">Why a side job</a><a href="/#earnings">Earnings</a><a href="/#how">How to start</a><a href="/#faq">FAQs</a></nav>
+    <nav id="site-nav" aria-label="Main navigation"><a href="/#earnings">Pay example</a><a href="/#why">The maths</a><a href="/#how">How to start</a><a href="/#faq">FAQs</a></nav>
     <a class="button small" href="/#enquire">Apply now <span aria-hidden="true">↗</span></a>
   </header>
   <main id="main">
@@ -89,7 +89,7 @@
   <footer class="site-footer wrap">
     <div class="footer-top">
       <a class="brand" href="/"><img src="/assets/favicon.svg?v=2" alt="" width="36" height="36"><span>Talent Fluxo</span></a>
-      <nav class="footer-links" aria-label="Footer"><a href="/#why">Why a side job</a><a href="/#earnings">Earnings</a><a href="/#how">How to start</a><a href="/#faq">FAQs</a><a href="/privacy-policy/">Privacy Policy</a></nav>
+      <nav class="footer-links" aria-label="Footer"><a href="/#earnings">Pay example</a><a href="/#why">The maths</a><a href="/#how">How to start</a><a href="/#faq">FAQs</a><a href="/privacy-policy/">Privacy Policy</a></nav>
     </div>
     <div class="footer-bottom" id="preview-note">
       <p>© <span id="year">2026</span> Talent Fluxo</p>
